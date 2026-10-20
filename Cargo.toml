@@ -1,0 +1,8 @@
+[package]
+name = "rust_winui3_demo"
+version = "0.1.0"
+edition = "2024"
+description = "A WinUI 3 desktop demo built with windows-reactor"
+
+[dependencies]
+windows-reactor = { git = "https://github.com/microsoft/windows-rs" }
