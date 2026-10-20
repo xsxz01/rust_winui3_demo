@@ -1,5 +1,7 @@
 # Rust WinUI 3 Demo
 
+> 使用 Rust 和 windows-reactor 封装构建的原生 WinUI 3 桌面应用示例（导航、主题切换、常用控件）。
+
 一个使用 Rust 构建的原生 WinUI 3 桌面应用示例，基于 [`windows-rs`](https://github.com/microsoft/windows-rs) 仓库中的 `windows-reactor` 封装，以组件化的方式声明界面。
 
 ## 功能特性
